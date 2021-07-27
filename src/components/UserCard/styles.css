@@ -1,0 +1,26 @@
+button{
+    background: #4555EA;
+    width: 5vw;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    display: block;
+}
+
+input{
+    background: #FFFCFC;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.card{
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #000000;
+    padding: 30px
+}
